@@ -1,3 +1,5 @@
+// package lesson33;
+
 // 1. Viết class trong Java
 class Person {
     private String ssn;
