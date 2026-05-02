@@ -14,3 +14,7 @@ mixedArray.push(3.14);
 mixedArray.push(false);
 
 console.log("check mixed array:", mixedArray);
+
+let a: number = 10;
+
+console.log("check a:", a++);
