@@ -15,6 +15,7 @@ const student2 = {
     address: "456 Elm St",
     city: "Los Angeles",
 };
+// để ý màu sắc của user bên trái dấu ":" và TUser bên phải dấu ":"
 const printUserInfo = (user) => {
     console.log(`ID: ${user.id}`);
     console.log(`Name: ${user.name}`);
@@ -22,5 +23,7 @@ const printUserInfo = (user) => {
     console.log(`Address: ${user.address}`);
     console.log(`City: ${user.city}`);
 };
+console.log("============================================");
+console.log("Student 1 Info:", student1.name);
 printUserInfo(student1);
 printUserInfo(student2);
