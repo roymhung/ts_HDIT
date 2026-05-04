@@ -1,0 +1,25 @@
+{
+  "name": "ts_HDIT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roymhung/ts_HDIT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roymhung/ts_HDIT/issues"
+  },
+  "homepage": "https://github.com/roymhung/ts_HDIT#readme",
+  "devDependencies": {
+    "typescript": "5.8.3"
+  }
+}
